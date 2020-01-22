@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Lerato Letsepe\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Lerato Letsepe\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}
